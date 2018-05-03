@@ -1,4 +1,18 @@
 # q1-prop
+
+****** NEW PROPOSAL********
+
+Tamagotchi style game.
+raise your creature, don't let it die.
+
+multiple levels(growth stages)
+ different tasks to maintain meter status
+
+ warmth
+ hunger
+ thirst etc.
+
+
 First Proposal:
 
 Life-Style app
